@@ -1,43 +1,47 @@
 DC Comics' Sinestro
+=======================================================================
 Version: 1.0 (1/5/2011)
 
 Created by GM Spectre, Smogon, McCready, Larramones & Buyog
+
 -----------------------------------------------------------------------
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Things that will hack me off related to the use of this character:
-- Don't host it on your site unless you ASK first, and give us the
-    proper credit. Email isn't hard, and I'll probably say yes,
-    so don't be afraid to ask. =P
-- If you got this character from somewhere other than ScruffyDragon.com 
-    or my site, Buyog.com, it's quite possible that it's been hacked and/or modified
-    without my permission, and not all the moves and animations may be very good.
-    Best to get it from a trusted source and be confident in its integrity.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	Things that will hack me off related to the use of this character:
+	- Don't host it on your site unless you ASK first, and give us the
+		proper credit. Email isn't hard, and I'll probably say yes,
+		so don't be afraid to ask. =P
+	- If you got this character from somewhere other than ScruffyDragon.com 
+		or my site, Buyog.com, it's quite possible that it's been hacked and/or modified
+		without my permission, and not all the moves and animations may be very good.
+		Best to get it from a trusted source and be confident in its integrity.
+	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-GAMEPLAY:
-
+GAMEPLAY
+-----------------------------------------------------------------------
 Sinestro's got a 6-button play style:
 
-x - Weak Punch (WP)
-y - Medium Punch (MP)
-z - Hard Punch (HP)
-a - Weak Kick (WK)
-b - Medium Kick (MK)
-c - Hard Kick (HK)
-
-d,u:  Super Jump (KKK will trigger it too)
-f,f:  Dash Forward (PPP will also work)
-b,b:  Dash Back (PPP while holding back will also do the trick)
+* x - Weak Punch (WP)
+* y - Medium Punch (MP)
+* z - Hard Punch (HP)
+* a - Weak Kick (WK)
+* b - Medium Kick (MK)
+* c - Hard Kick (HK)
+* d,u:  Super Jump (KKK will trigger it too)
+* f,f:  Dash Forward (PPP will also work)
+* b,b:  Dash Back (PPP while holding back will also do the trick)
 
 
 NOTE
+-----------------------------------------------------------------------
 Sinestro was originally developed on WinMUGEN, but I switched to MUGEN 1.0 between RC2 and this release.
 I think I've caught all the issues, but if you find something unexpected, please let me know.
 
 
 SPECIALS
+-----------------------------------------------------------------------
+
  - Deadly Gaze: QCF + P
  - Ravenous Beam: QCF + K
  - Sinister Spear (anti-air): F,D,DF + P
@@ -47,6 +51,8 @@ SPECIALS
 
 
 HYPERS
+-----------------------------------------------------------------------
+
  - Needle Storm: QCF + PP
  - Fall Before Me!: QCB + PP
 * Sinestro Corps (helper gang attack)
@@ -55,6 +61,7 @@ HYPERS
 
 
 COMBO SYSTEM
+-----------------------------------------------------------------------
 
 Capcom-style chain combos work for standing, crouching, and air:
 1. WP+MP+SP: you can chain the three punches together, weakest to strongest, for a 3 or 4 hit combo.
@@ -64,15 +71,13 @@ Capcom-style chain combos work for standing, crouching, and air:
 Launcher: crouching hard punch (standing hard punch can OTG)
 
 
------------------------------------------------------------------------
 VERSION HISTORY:
---------------------
-- nn Jan 2012: 1.0
+=======================================================================
+- nn MMM 2013: 1.0
   - added weak & medium crouching attacks
   - added powered-up constructs for air and crouching basics
   - forward/backward jumps
   - added taunt
-  - 
 
 - 21 Jul 2011: RC 2 (really beta 2)
   - fixed sprite palette and explod positioning issues (thanks, @ArmageddoN!)
@@ -100,8 +105,9 @@ VERSION HISTORY:
 - 28 Dec 2007: Alpha 0.1 release.
   - 1 special, a few basics (VERY bare-bones still)
 
-----------------------------------------------------------------------
+
 CREDITS
+----------------------------------
 
 - GM Spectre for the original "D Fighter" sprites
 - Smogon and McCready for a lot of sprite cleanup work
@@ -115,7 +121,9 @@ CREDITS
 - The entire DC vs Marvel team... a more talented, helpful group of people I've never before seen online. :)
 - and YOU! For playing. =)
 
+
 LINKAGE
-Buyog's email:            buyog2099@yahoo.com
-Buyog's webspace:         http://buyog.com/MUGEN
-Scruffy Dragon webspace:  http://www.scruffydragon.com
+----------------------------------
+- Buyog's email:              mugen@buyog.com
+- Buyog's webspace:           http://www.buyog.com/MUGEN
+- Scruffy Dragon webspace:    http://www.scruffydragon.com
